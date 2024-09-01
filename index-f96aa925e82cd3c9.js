@@ -369,12 +369,16 @@
                             className: "group/list",
                             children: [
                                 {
-                                    date: "2022 — 2022",
-                                    company: { name: "Creative Urge", link: "https://www.klaviyo.com" },
+                                    date: "SEP — NOV 2022",
+                                    company: { name: "Creative Urge", link: "https://creativeurge.co.uk" },
                                     positions: ["Unity Developer Freelancer"],
                                     desc:
-                                        "Contributed to a video editing maker called Anim8 with experienced developers, did bughunting, implemented features, used Trello to mimick a task-based workflow.",
+                                        "Contributed to a video editing app called Anim8 with experienced developers, did bughunting, implemented features, used Trello to mimick a task-based workflow.",
                                     tech: ["Unity", "C#", "Mobile App"],
+                                    links:[
+                                        {title: "Anim8", link: "https://www.youtube.com/watch?v=bhapnF5Vjqk"}
+                                    ]
+
                                 }
                             ].map((e, t) =>
                                 (0, s.jsx)(
@@ -458,7 +462,7 @@
                             children: [
                                 {
                                     date: "2020 — 2024",
-                                    company: { name: "Trakya Üniversitesi", link: "https://www.klaviyo.com" },
+                                    company: { name: "Trakya Üniversitesi", link: "https://www.trakya.edu.tr" },
                                     positions: ["Bachelor of Science in Computer Engineering | GPA 3.0 "],
                                     desc:
                                         "Topics include Data Structures and Algorithms, Calculus, Classical Physics, Numerical Analysis and Statistics, Digital Circuit Design, Operating Systems, Databases, Computer Networks, Object-Oriented Programming, Mobile App Programming and Crpytography."
@@ -544,7 +548,7 @@
                         children: [
                             "This website is a copy of ",
                             " ",
-                            (0, s.jsx)("a", { href: "https://www.figma.com/", className: e, target: "_blank", rel: "noreferrer noopener", "aria-label": "Figma (opens in a new tab)", children: "Britany Chiang's" }),
+                            (0, s.jsx)("a", { href: "https://brittanychiang.com", className: e, target: "_blank", rel: "noreferrer noopener", "aria-label": "Brittany Chiang", children: "Britany Chiang's" }),
                             " ",
                             "work and is made with",
                             " ",
