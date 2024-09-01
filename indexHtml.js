@@ -376,8 +376,8 @@
                                         "Contributed to a video editing app called Anim8 with experienced developers, did bughunting, implemented features, used Trello to mimick a task-based workflow.",
                                     tech: ["Unity", "C#", "Mobile App"],
                                     links:[
-                                        {title: "Anim8", url: "https://www.youtube.com/watch?v=bhapnF5Vjqk"}
-                                    ]
+                                        {title: "Anim8",
+                                        url: "https://www.youtube.com/watch?v=bhapnF5Vjqk" }]
 
                                 }
                             ].map((e, t) =>
