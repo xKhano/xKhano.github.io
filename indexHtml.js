@@ -569,7 +569,7 @@
                         (0, s.jsxs)("div", {
                             children: [
                                 (0, s.jsx)("h1", { className: "text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl", children: (0, s.jsx)(h(), { href: "/", children: "Kaan Dalkıran" }) }),
-                                (0, s.jsx)("h2", { className: "mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl", children: "Software Engineering Graduate" }),
+                                (0, s.jsx)("h2", { className: "mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl", children: "Computer Engineering Graduate" }),
                                 (0, s.jsx)("p", { className: "mt-4 max-w-xs leading-normal", children: "I build, maintain and update mindkeeping ideas into useful applications." }),
                                 (0, s.jsx)("nav", {
                                     className: "nav hidden lg:block",
