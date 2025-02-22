@@ -569,7 +569,7 @@
                         (0, s.jsxs)("div", {
                             children: [
                                 (0, s.jsx)("h1", { className: "text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl", children: (0, s.jsx)(h(), { href: "/", children: "Kaan Dalkıran" }) }),
-                                (0, s.jsx)("h2", { className: "mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl", children: "Computer Engineering Graduate" }),
+                                (0, s.jsx)("h2", { className: "mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl", children: "Software Engineer / Game Developer" }),
                                 (0, s.jsx)("p", { className: "mt-4 max-w-xs leading-normal", children: "I build, maintain and update mindkeeping ideas into useful applications." }),
                                 (0, s.jsx)("nav", {
                                     className: "nav hidden lg:block",
@@ -608,7 +608,7 @@
                             className: "ml-1 mt-8 flex items-center",
                             "aria-label": "Social media",
                             children: [
-                                { title: "GitHub", url: "https://github.com/Keaton296", icon: "github" },
+                                { title: "GitHub", url: "https://github.com/xKhano", icon: "github" },
                                 { title: "LinkedIn", url: "https://www.linkedin.com/in/there-are-no-little-details/", icon: "linkedin" }
                             ].map((e, t) =>
                                 (0, s.jsx)(
@@ -667,7 +667,7 @@
                         [a, n] = (0, r.useState)(null);
                     return ((0, r.useEffect)(() => {
                         let e = t.split("/")[4];
-                        fetch("https://api.github.com/repos/Keaton296/".concat(e))
+                        fetch("https://api.github.com/repos/xKhano/".concat(e))
                             .then((e) => e.json())
                             .then((e) => {
                                 let { stargazers_count: t } = e;
@@ -693,7 +693,7 @@
                             children: [
                                 {
                                     title: "Skullknight",
-                                    link: "https://github.com/Keaton296/Skullknight",
+                                    link: "https://github.com/xKhano/Skullknight",
                                     image: "skullknight.png",
                                     alt: "2D Soulslike Platformer Game",
                                     tech: ["Unity", "C#"],
@@ -701,17 +701,17 @@
                                 },
                                 {
                                     title: "Embedded Server",
-                                    link: "https://github.com/Keaton296/LocalWebServer-ESP32-IDF",
+                                    link: "https://github.com/xKhano/LocalWebServer-ESP32-IDF",
                                     image: "embeddedServer.png",
                                     alt: "Embedded Server",
                                     desc:
                                         "A ESP32 embedded device that runs a local web server, providing data access and changability, communicating with an external SPI flash chip.",
                                     tech: ["Rust", "ESP-IDF", "ESP32"],
-                                    github: "https://github.com/Keaton296/LocalWebServer-ESP32-IDF",
+                                    github: "https://github.com/xKhano/LocalWebServer-ESP32-IDF",
                                 },
                                 {
                                     title: "Event Tracker App",
-                                    link: "https://github.com/Keaton296/Calendar-App",
+                                    link: "https://github.com/xKhano/Calendar-App",
                                     image: "calendarApp.png",
                                     alt: "Event Tracker App",
                                     desc: "A Mobile App for setting up events in a calendar, has its local database.",
