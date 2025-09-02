@@ -722,6 +722,14 @@
                                     desc: "A 2D Platformer game made in a few weeks using Unity game engine. Implemented a state machine on that project and it's mechanics were made to be similar with Soulslike games.",
                                 },
                                 {
+                                    title: "Infinity Corridor",
+                                    link: "https://sarpvisuals.itch.io/infinity-corridor",
+                                    image: "infinity_corridor.png",
+                                    alt: "Bullet Hell Typing Spellcaster Minigame",
+                                    tech: ["Unity", "C#"],
+                                    desc: "GOATJAM 2025 Entry, made with group of three people.",
+                                },
+                                {
                                     title: "Embedded Server",
                                     link: "https://github.com/xKhano/LocalWebServer-ESP32-IDF",
                                     image: "embeddedServer.png",
