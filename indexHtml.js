@@ -714,6 +714,14 @@
                             className: "group/list",
                             children: [
                                 {
+                                    title: "Sinister Remains",
+                                    link: "https://store.steampowered.com/app/3930360/Sinister_Remains/",
+                                    image: "sinisterRemains.jpg",
+                                    alt: "Puzzle, Horror",
+                                    tech: ["Unity", "C#"],
+                                    desc: "Software consultancy on the development of the horror game. Handled bugs and added features.",
+                                },
+                                {
                                     title: "Skullknight",
                                     link: "https://github.com/xKhano/Skullknight",
                                     image: "skullknight.png",
