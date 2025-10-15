@@ -719,11 +719,11 @@
                                     image: "sinisterRemains.jpg",
                                     alt: "Puzzle, Horror",
                                     tech: ["Unity", "C#"],
-                                    desc: "Software consultancy on the development of the horror game. Handled bugs and added features.",
+                                    desc: "Done software consultancy on the development of the horror game. Handled bugs and added features.",
                                 },
                                 {
                                     title: "Skullknight",
-                                    link: "https://github.com/xKhano/Skullknight",
+                                    link: "https://www.youtube.com/watch?v=7oE0xDpzYWo",
                                     image: "skullknight.png",
                                     alt: "2D Soulslike Platformer Game",
                                     tech: ["Unity", "C#"],
@@ -735,26 +735,18 @@
                                     image: "infinity_corridor.png",
                                     alt: "Bullet Hell Typing Spellcaster Minigame",
                                     tech: ["Unity", "C#"],
-                                    desc: "GOATJAM 2025 Entry, made with group of three people.",
-                                },
-                                {
-                                    title: "Embedded Server",
-                                    link: "https://github.com/xKhano/LocalWebServer-ESP32-IDF",
-                                    image: "embeddedServer.png",
-                                    alt: "Embedded Server",
-                                    desc:
-                                        "A ESP32 embedded device that runs a local web server, providing data access and changability, communicating with an external SPI flash chip.",
-                                    tech: ["Rust", "ESP-IDF", "ESP32"],
-                                    github: "https://github.com/xKhano/LocalWebServer-ESP32-IDF",
-                                },
-                                {
-                                    title: "Event Tracker App",
-                                    link: "https://github.com/xKhano/Calendar-App",
-                                    image: "calendarApp.png",
-                                    alt: "Event Tracker App",
-                                    desc: "A Mobile App for setting up events in a calendar, has its local database.",
-                                    tech: ["Kotlin", "Android Studio", "Jetpack Compose"],
+                                    desc: "GOATJAM 2025 Entry, game made with a group of three people.",
                                 }
+                                //{
+                                //    title: "Embedded Server",
+                                //    link: "https://github.com/xKhano/LocalWebServer-ESP32-IDF",
+                                //    image: "embeddedServer.png",
+                                //    alt: "Embedded Server",
+                                //    desc:
+                                //        "A ESP32 embedded device that runs a local web server, providing data access and changability, communicating with an external SPI flash chip.",
+                                //    tech: ["Rust", "ESP-IDF", "ESP32"],
+                                //    github: "https://github.com/xKhano/LocalWebServer-ESP32-IDF",
+                                //}
                             ].map((t, a) =>
                                 (0, s.jsx)(
                                     "li",
